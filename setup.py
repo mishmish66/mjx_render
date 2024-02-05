@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 packages = find_packages()
 setup(
-    name="mjx_renderer",
+    name="mjx_render",
     version="0.1.0",
     author="Misha Lvovsky",
     author_email="m.lvovsky66@gmail.com",
