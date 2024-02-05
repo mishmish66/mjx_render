@@ -1,0 +1,4 @@
+jax>=0.4.1
+jaxlib>=0.4.1+cuda12.cudnn89
+mujoco>=3.0.1
+numpy
