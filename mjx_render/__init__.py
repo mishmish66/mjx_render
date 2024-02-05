@@ -1,1 +1,1 @@
-from .renderer import JAXRenderer
+from .renderer import MJXRenderer
